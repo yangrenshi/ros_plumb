@@ -1,0 +1,8 @@
+prefix=/home/yang/talk/devel
+
+Name: launch_base01
+Description: Description of launch_base01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

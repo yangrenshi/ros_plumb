@@ -1,0 +1,8 @@
+prefix=/home/yang/talk/devel
+
+Name: plumbing_param_sever
+Description: Description of plumbing_param_sever
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

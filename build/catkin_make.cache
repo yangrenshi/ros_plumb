@@ -1,0 +1,2 @@
+launch_base01:plumbing_apis:plumbing_head:plumbing_head_src:plumbing_my:plumbing_param_sever:plumbing_pub_sub:plumbing_sever_client:plumbing_test:rename01:test_launch
+-DCATKIN_DEVEL_PREFIX=/home/yang/talk/devel -DCMAKE_INSTALL_PREFIX=/home/yang/talk/install -G Unix Makefiles

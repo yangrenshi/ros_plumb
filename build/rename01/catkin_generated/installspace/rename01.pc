@@ -1,0 +1,8 @@
+prefix=/home/yang/talk/install
+
+Name: rename01
+Description: Description of rename01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
